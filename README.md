@@ -1,2 +1,2 @@
 # PythonPlotDemo
-Matplotlib绘制实验结果图的一些样例
+实验结果图绘制的样例
